@@ -1,5 +1,8 @@
 # NLP 脉络笔记
 
+本文档收集了几个来源于网络的NLP入门整理文档，以求较全面的了解NLP知识脉络。
+
+---
 # 来源一：NLP学习指南：https://github.com/leerumor/nlp_tutorial
 
 ## 系统入门方法
@@ -39,4 +42,7 @@ Fasttext：便捷工具，包含文本分类和词向量训练。把输入转化
 特点：模型本身复杂度低，但能快速产生任务baseline；Fb通过C++实现，提升计算效率；采用char-level的n-gram作为附加特征，解决了长尾词的OOV，也利用n-gram特征提升表现；类别过多时，采用hierarchical softmax进行分类。
 
 TextCNN：Yoon Kim于2014年提出，用CNN编码n-gram特征的首创。很适合中短文本场景的强baseline，不适合长文本，
+
+
+---
 
