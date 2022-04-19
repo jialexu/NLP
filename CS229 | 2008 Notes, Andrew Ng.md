@@ -39,3 +39,36 @@ give the algorithm the right answers, and want the alg. to learn and give us mor
 
 classification problems.
 
+infinite-dimensional space, four-vector machine, infinite features how to represent in computer memory?
+
+## Learning Theory
+
+## Unsupervised Learning
+
+processing pictures
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/38922328/163907375-5c5b3eb9-3817-4cb2-a198-eeab7de1cd3e.png">
+
+organize computing clusters, social network analysis, market segmentation, astronomical data analysis.
+
+### cocktail party problem
+
+one solution by a UCSD student
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/38922328/163908266-945ec302-397f-4cb9-97a2-9c4828b6143a.png">
+
+can do that using Matlab, using one line of code?! yes but not easy, through researches to generate that code.
+
+ICA algorithm
+
+## Reinforcement Learning
+
+problems you do not do one-shot decision making, but to make a sequence of decisions.
+
+helicopters flight decisions,
+reward function, similar to dog train
+
+several projects video recordings.
+
+end of class today.
+
+### After class
+find project partners, form study groups
