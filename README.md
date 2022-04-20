@@ -49,3 +49,21 @@ TextCNN：Yoon Kim于2014年提出，用CNN编码n-gram特征的首创。很适�
 
 # 来源二：NLP入门指南
 > https://www.cxyzjd.com/article/zwqjoy/103546648
+
+### NLP的任务类型
+
+类别到序列：文本生成，图像描述生成
+
+序列到类别：文本挖掘，文本分类，情感分析
+
+同步的序列到序列：中文分词，词性标注，实体识别
+
+异步的序列到序列：机器翻译，自动摘要，问答系统
+
+###传统方式和深度学习方式对比
+
+<img width="696" alt="image" src="https://user-images.githubusercontent.com/38922328/164128950-f4e4e044-d0d1-4543-ae77-0f716116fabc.png">
+
+NLP
+NLP预处理
+
