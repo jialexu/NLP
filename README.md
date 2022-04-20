@@ -64,6 +64,15 @@ TextCNN：Yoon Kim于2014年提出，用CNN编码n-gram特征的首创。很适�
 
 <img width="696" alt="image" src="https://user-images.githubusercontent.com/38922328/164128950-f4e4e044-d0d1-4543-ae77-0f716116fabc.png">
 
-NLP
-NLP预处理
+## NLP预处理
+
+语料库Raw data ～ 文本清洗Cleaning ～ 分词Segmentation ～ 标准化Normalization ～ 特征提取Feature extraction ～ 建模Modeling
+
+### 英文NLP6个步骤
+
+分词Tokenization ～ 词干提取Stemming ～ 词形还原Lemmatization ～ 词性标注Parts of speech ～ 命名实体识别NER ～ 分块Chunking
+
+### 中文NLP4个步骤
+
+分词 ～ 词性标注 ～ 命名实体识别 ～ 去除停用词
 
