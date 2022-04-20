@@ -3,7 +3,8 @@
 本文档收集了几个来源于网络的NLP入门整理文档，以求较全面的了解NLP知识脉络。
 
 ---
-# 来源一：NLP学习指南：https://github.com/leerumor/nlp_tutorial
+# 来源一：NLP学习指南：
+> https://github.com/leerumor/nlp_tutorial
 
 ## 系统入门方法
 
@@ -46,3 +47,5 @@ TextCNN：Yoon Kim于2014年提出，用CNN编码n-gram特征的首创。很适�
 
 ---
 
+# 来源二：NLP入门指南
+> https://www.cxyzjd.com/article/zwqjoy/103546648
